@@ -6,12 +6,12 @@ package lab5_grouplab;
 
 /**
  *
- * @author mw554
+ * @author justin
  */
-public class Member3 {
+public class Member2 {
     
     public static void main(String[] args) {
-    System.out.println("Hello from Member 3!");
+    System.out.println("Hello from Member 2!");
     
     
     }
