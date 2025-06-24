@@ -6,7 +6,7 @@ package lab5_grouplab;
 
 /**
  *
- * @author justin
+ * @author Justin
  */
 public class Member2 {
     
